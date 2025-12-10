@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+opencv-python
+faiss-cpu
+Pillow
+numpy
+yt-dlp
+streamlit
+ftfy
+regex
+tqdm

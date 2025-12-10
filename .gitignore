@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Project Specific
+downloads/
+processed_frames/
+test_data/
+*.mp4
+*.m4a
+*.jpg
+*.png
+
+# Faiss Index (Large binaries)
+*.faiss
+*.pkl
+index_folder/
+
+# IDE
+.vscode/
+.idea/
